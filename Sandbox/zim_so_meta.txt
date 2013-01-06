@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-01-06T21:08:46+01:00
+
+====== zim so meta ======
+Created Sonntag 06 Jänner 2013
+
+What a neat little piece of software. This section helps me with the use of zim.
+
+====== GIT ======
+
+With Edit -> Preferences -> Plugins I find my plugins. By default the Version Control Plugin is enabled. I then can choose under prefernces that changes should be saved automatically from time to time. I can't remember if this was enabled by default. Nevertheless changes are automatically commited, but not pushed.
+
+#TODO: Think of something clever, to get the pushing automatically done.
+

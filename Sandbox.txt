@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-01-06T21:17:16+01:00
+
+====== Sandbox ======
+Created Sonntag 06 Jänner 2013
+
+Test functions of zim.
+
+~~test test test~~ 
+**test test test**
+__test test test__
+[[http://foop.at|link]]
+[[./zim_so_meta.txt]] 
+#TODO: @home
+
+[ ] Testkreuzerl [d: 8/1]
+[*] bla
+[ ] foo
+
+
+
