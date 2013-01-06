@@ -14,9 +14,10 @@ __test test test__
 [[./zim_so_meta.txt]] 
 #TODO: @home
 
-[ ] Testkreuzerl [d: 8/1]
-[*] bla
-[ ] foo
+[ ] Testkreuzer
+
+
+
 
 
 

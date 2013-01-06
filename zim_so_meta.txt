@@ -11,5 +11,25 @@ What a neat little piece of software. This section helps me with the use of zim.
 
 With Edit -> Preferences -> Plugins I find my plugins. By default the Version Control Plugin is enabled. I then can choose under prefernces that changes should be saved automatically from time to time. I can't remember if this was enabled by default. Nevertheless changes are automatically commited, but not pushed.
 
-#TODO: Think of something clever, to get the pushing automatically done.
+[ ] Think of something clever, to get the pushing automatically done.
+
+===== Privacy =====
+
+This appears to be so useful, that I might be tempted to use it for personal data in the near future. This hower can not be done using a public repository. How will I solve this, will I use 2 different zim, or will I just use a private one? There are 3 different modes I can think of
+
+1. All Private - 
+	+ no privacy issues
+	- more difficult to access
+	- no quick sharing with others
+	- no webpublishing 
+2. Two Wikis
+	+ private
+	+ and public
+	- might be more difficult to maintain (more overhead)
+3. Only Public.
+	+ good for sharing
+	+ web publishing
+	+ easy access
+	- can't use for personal organisation
+	
 
