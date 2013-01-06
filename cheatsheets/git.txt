@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-01-06T21:48:55+01:00
+
+====== git ======
+Created Sonntag 06 Jänner 2013
+
+====== .gitignore ======
+Do //not //abuse it, the example stated below is bad if it is put in a project specific .gitignore file. Put such info in $HOME/.gitglobalignore  instead, do not forget to set the core.excludes setting in $HOME/.gitconfig 
+
+==== syntax ====
+blank line maches no files
+# -> comment
+!  -> not - negates pattern
+/  -> beginning of pathname: [[/*.c]] matches bar.c bunt not foo/bar.c
+
+==== examples ====
+# ignore all vim swap files recursively starting from the place where .gitignore is placed
+*~
